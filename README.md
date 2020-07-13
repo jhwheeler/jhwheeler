@@ -1,16 +1,16 @@
-### Hi there 👋
+## Hi, I'm Jackson!
 
-<!--
-**jhwheeler/jhwheeler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Developer, linguist, juggler
 
-Here are some ideas to get you started:
+- 🔭 Currently CTO of [Playpilot](https://www.playpilot.com/), streaming service aggregator: your one-stop shop to find what to watch and where.
+- 🌱 Learning Rust! Fascinated by its safety and ease of use, once you figure out what's going on (still working on that...)
+- 💬 Ask me about managing remote tech teams, web dev, language learning, juggling, and fire spinning
+- 📫 How to reach me: find me on Twitter @Alacritas7
+- ⚡ Fun fact: I speak ~7 languages and am eager to learn more :D
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Setup
+- Editor: [vim](https://www.youtube.com/watch?v=Iid1Ms14Om4)
+- Shell: [zsh](https://www.howtogeek.com/362409/what-is-zsh-and-why-should-you-use-it-instead-of-bash/)
+- Terminal: [alacritty](https://github.com/alacritty/alacritty)
+- Terminal multiplexer: [tmux](https://www.bugsnag.com/blog/benefits-of-using-tmux)
+
