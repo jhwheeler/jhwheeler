@@ -3,7 +3,7 @@
 ### Developer, linguist, juggler
 
 - 🔭 Currently CTO of [Playpilot](https://www.playpilot.com/), streaming service aggregator: your one-stop shop to find what to watch and where
-- 🌱 Learning Rust! Fascinated by its safety and ease of use, once you figure out what's going on (still working on that...)
+- 🌱 Learning Golang!
 - 💬 Ask me about managing remote tech teams, web dev, language learning, juggling, and fire spinning
 - 📫 How to reach me: find me on Twitter [@Alacritas7](https://twitter.com/Alacritas7/)
 - ⚡ Fun fact: I speak ~7 languages and am eager to learn more :D
