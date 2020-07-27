@@ -2,7 +2,7 @@
 
 ### Developer, linguist, juggler
 
-- 🔭 Currently CTO of [Playpilot](https://www.playpilot.com/), streaming service aggregator: your one-stop shop to find what to watch and where.
+- 🔭 Currently CTO of [Playpilot](https://www.playpilot.com/), streaming service aggregator: your one-stop shop to find what to watch and where
 - 🌱 Learning Rust! Fascinated by its safety and ease of use, once you figure out what's going on (still working on that...)
 - 💬 Ask me about managing remote tech teams, web dev, language learning, juggling, and fire spinning
 - 📫 How to reach me: find me on Twitter [@Alacritas7](https://twitter.com/Alacritas7/)
@@ -13,4 +13,6 @@
 - Shell: [zsh](https://www.howtogeek.com/362409/what-is-zsh-and-why-should-you-use-it-instead-of-bash/)
 - Terminal: [alacritty](https://github.com/alacritty/alacritty)
 - Terminal multiplexer: [tmux](https://www.bugsnag.com/blog/benefits-of-using-tmux)
+- Color scheme: [fluidlan-vim](https://github.com/jhwheeler/fluidlan-vim)
 
+![fluidlan-vim color scheme](https://user-images.githubusercontent.com/23257850/88414702-db760e80-ce0f-11ea-9ae4-29f221612e77.png)
